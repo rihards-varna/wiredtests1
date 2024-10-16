@@ -10,6 +10,7 @@ from colorama import Fore,Back,Style,init
 init(autoreset=True)
 
 #! 3 PANEM ADVERTISEMENTS NO ABAM PUSEM UN MATCHO AR TIEM KO GRIBAM TESTET, JA GAN VIENA, GAN OTRA PUSE IR X ADVERT TAD TEST
+#! ADVERTISEMENT TESTA BEIGAS DUTAM JAUZLIEK ATPAKAL DEFAUTL ADVERTISEMENTS SAVADAK CITOS TESTOS VAR PAZUST PIEKLUVE, JA AR KADU NO ADVERTISE IR PROBLEMAS
 
 #! RESET OLD JSONS
 def reset_json_files():
@@ -120,9 +121,6 @@ python_file_list = [
     'advertisement.py',
     'reset_configuration.py'
 ]
-
-print('loko')
-
 
 if __name__ == "__main__":
     
